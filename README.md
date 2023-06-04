@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steven Sun
+- 👋 Hi, My name is Steven Sun
 - 🌱 I’m currently learning Python at Rio Hondo College
 
 
